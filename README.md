@@ -49,7 +49,6 @@ cd portfolio-api
 
 # README 日本語版
 
-```markdown
 # ポートフォリオ API
 
 ## プロジェクト概要
